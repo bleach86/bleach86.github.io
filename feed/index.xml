@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ghost Veterans</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Community Website</description>
+	<lastBuildDate>Thu, 11 Mar 2021 01:24:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://secureservercdn.net/104.238.69.81/y50.be9.myftpupload.com/wp-content/uploads/2020/09/cropped-ghostlogocopy1-1-1-32x32.png</url>
+	<title>Ghost Veterans</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hardfork Update</title>
+		<link>/hardfork-update/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Thu, 11 Mar 2021 00:08:19 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1689</guid>
+
+					<description><![CDATA[<p>The Ghost team has officially completed the emergency hardfork on Friday, March 5th, that has temporarily disabled&#160;RingCT&#160;and CT transactions to fix the potential vulnerability from our parent code&#160;Particl. For weeks now, the Ghost team has thoroughly investigated and scanned the outstanding coin supply. Public outputs and anon transfers have also been monitored around the clock. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/hardfork-update/">Hardfork Update</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Emergency Hardfork</title>
+		<link>/emergency-hardfork/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 03:40:04 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1661</guid>
+
+					<description><![CDATA[<p>&#8220;For the security of the network, your privacy and your ghost coins, please do not send transactions until this emergency is declared over.&#8221; The GHOST team has found a critical issue in the RingCT and CT code which requires a hardfork Saturday, March 6th, at 1:00am GMT. Please update your Ghost Desktop Wallet and Nodes [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/emergency-hardfork/">Emergency Hardfork</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Community Update</title>
+		<link>/update0202/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Tue, 02 Feb 2021 08:08:23 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1411</guid>
+
+					<description><![CDATA[<p>The New GHOST Team has been working very diligently this last month to fulfill the original mission we all fight for. We want to thank the entire community for helping GHOST reach it&#8217;s true potential. Much respect to everyone that has sacrificed their time for our common goal. Dandelion++ Protocol GHOST has worked very hard [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/update0202/">Community Update</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		<enclosure url="https://secureservercdn.net/104.238.69.81/y50.be9.myftpupload.com/wp-content/uploads/2021/01/Snapshot-completed.mp4" length="582533" type="video/mp4" />
+<enclosure url="https://secureservercdn.net/104.238.69.81/y50.be9.myftpupload.com/wp-content/uploads/2021/01/GhostXlive.mp4" length="341181" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Ghost Update</title>
+		<link>/update108/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Sun, 03 Jan 2021 05:58:51 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1318</guid>
+
+					<description><![CDATA[<p>At block height 139456, Friday January 8th, 1:00-2:00 AM UTC, GHOST will be undergoing both a Core &#38; Desktop Update. Everyone running client version 2.0.7 will need to update to 2.0.8, so you will be able to continue communicating with the blockchain. 2.0.8 resolves several issues with the OSX desktop. It is now properly signed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/update108/">Ghost Update</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Community Update</title>
+		<link>/update1226/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 05:49:25 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1294</guid>
+
+					<description><![CDATA[<p>Dec. 12th – Dec. 26th Ghost Core Update Ghost will be having a Core Update in January, containing several required updates for the longevity of Ghost. More information regarding exact details will be released very soon. Ghost Desktop Wallet $1,500.00 has been allocated from the development fund to fix several operating issues within the desktop [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/update1226/">Community Update</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Community Update</title>
+		<link>/update1212/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 22:30:20 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1268</guid>
+
+					<description><![CDATA[<p>Nov. 28th – Dec. 12th Spotlight Activities: 2,000 Ghost Giveaway, Christmas Dec. 25th.20 lucky followers will win 100 ghost.Follow&#160;Twitter.com/GhostVeterans&#160;to enter and win. Ghost has developers working on GVR Automation. This has been made possible by donations from the Ghost community. Blueprints for a decentralized on chain voting system is being prepared. GVR Automation: The system [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/update1212/">Community Update</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Community Update</title>
+		<link>/update1128/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2020 15:00:16 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1221</guid>
+
+					<description><![CDATA[<p>Nov. 14th &#8211; Nov. 28th Spotlight Activities: 2,000 Ghost Giveaway, Christmas Dec. 25th.20 lucky followers will win 100 ghost.Follow Twitter.com/GhostVeterans to enter and win. Ghost Ecosystem: The $GHOST blockchain explorer got an update with an all new logo and landing page. It grants access to Github and the main Ghostin directory with live blockchain statistics and veteran [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/update1128/">Community Update</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ghost Update 11/14</title>
+		<link>/update1114/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Sat, 14 Nov 2020 14:00:11 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1069</guid>
+
+					<description><![CDATA[<p>Highlights: Starting today, Ghost Community updates will go out every second week on Saturday 14,754,945 $GHOST coins in circulation as of November 14, 2020 Ghost Veteran Rewards: The monthly Ghost Veteran block reward payment was distributed for the month of October 554 Ghost Veterans split 129,000 $GHOST coins averaging about 233 $GHOST per Veteran Ghost [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/update1114/">Ghost Update 11/14</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Weekly Update</title>
+		<link>/update1030/</link>
+		
+		<dc:creator><![CDATA[ghost]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2020 12:00:14 +0000</pubDate>
+				<guid isPermaLink="false">/?p=1001</guid>
+
+					<description><![CDATA[<p>Ghost Community Update 10/23-10/30 Ghost will now have updates every Friday posted on Ghost Veterans, Twitter, Telegram, and Discord. Developers are being considered for GhostDai development. Ghost Website Updates: The staking calculator has been accurately updated on Ghostbyjohnmcafee.com. It now calculates based upon the correct number of veterans and is updated monthly. It also calculates [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/update1030/">Weekly Update</a> appeared first on <a rel="nofollow" href="/">Ghost Veterans</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
