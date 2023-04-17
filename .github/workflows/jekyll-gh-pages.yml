@@ -39,11 +39,14 @@ jobs:
         uses: actions/upload-pages-artifact@v1
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.5.2
+        with:
+          node-version: '14.21.1'
+
       - name: NPM Target
         uses: anna-money/github-actions-npm@v4
         with:
           # package.json target to run
-          target: npm install && npm start
+          target: npm start
   # Deployment job
   deploy:
     environment:
